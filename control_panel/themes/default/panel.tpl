@@ -563,14 +563,14 @@
 </script>
 </div>
 
-<!-- لینک VoipIran - مینیمال و هماهنگ با تم Issabel -->
+<!-- لینک fourse.com - مینیمال و هماهنگ با تم Issabel -->
 <div style="margin: 20px 10px 10px; padding: 14px 18px; background: #f8fff9; border: 1px solid #e0e8e2; border-left: 4px solid #27ae60; border-radius: 10px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
-    <a href="https://voipiran.io" target="_blank" rel="noopener" style="text-decoration: none; color: #2c3e50; font-size: 15px; font-weight: 500; display: inline-flex; align-items: center; gap: 12px; transition: color 0.2s;">
+    <a href="https://fourse.com" target="_blank" rel="noopener" style="text-decoration: none; color: #2c3e50; font-size: 15px; font-weight: 500; display: inline-flex; align-items: center; gap: 12px; transition: color 0.2s;">
         <img src="modules/control_panel/images/voipiran.png" 
              alt="VoipIran" 
              loading="lazy"
              style="width: auto; height: auto; max-width: 110px; max-height: 44px; border-radius: 6px;">
-        <span style="color: #27ae60;">توسعه‌یافته توسط VoipIran.io</span>
+        <span style="color: #27ae60;">توسعه‌یافته توسط fourse.com</span>
     </a>
 </div>
 
